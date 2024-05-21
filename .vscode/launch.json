@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch App in Development Mode",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "pnpm run launch-app-dev"
+        }
+    ]
+}

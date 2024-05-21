@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": { "source.organizeImports": "explicit" },
+    "eslint.experimental.useFlatConfig": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.ignorePath": ".gitignore"
+}
